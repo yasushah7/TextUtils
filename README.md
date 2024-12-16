@@ -7,5 +7,5 @@ It is a simple Django project or website in which we can Analyze text.
 1.Remove Punctuations<br>
 2.UPPERCASE<br>
 3.New Line Remove<br>
-4.Extra Spaces Remover<br>
-5.Numbers Remover
+4.Extra Space Remove<br>
+5.Number Remove
